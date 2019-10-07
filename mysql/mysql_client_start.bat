@@ -1,0 +1,1 @@
+docker run -it --rm --net=msdemo_network mysql:8.0.17 mysql -hmsdemo_mysql_server -uroot -p

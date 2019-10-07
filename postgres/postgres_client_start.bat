@@ -1,0 +1,1 @@
+docker run -it --rm --network msdemo_network postgres:11.5 psql -h msdemo_postgres_server -U postgres
