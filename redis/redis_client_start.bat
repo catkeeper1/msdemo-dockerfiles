@@ -1,0 +1,1 @@
+docker run -it --network msdemo_network --rm redis:5.0.6 redis-cli -h msdemo_redis_server -p 6379
